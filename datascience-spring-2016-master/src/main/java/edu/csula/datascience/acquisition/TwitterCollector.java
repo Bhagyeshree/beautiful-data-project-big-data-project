@@ -5,7 +5,6 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
 import twitter4j.Status;
-
 import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
